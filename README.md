@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jstillwell21
 - 👀 I’m interested in Artificial intelligence and Clean Energy.
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Python, C++ and Tensorflow.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jackson.stillwell@icloud.com
 
